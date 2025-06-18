@@ -1,4 +1,4 @@
-# Banking Transactions Analysis (SQL + Power BI)
+# Customer Segmentation - Banking (SQL + Power BI)
 
 **Tools Used:** SQL (MySQL), Power BI  
 **Project Type:** End-to-End Data Analytics Project  
