@@ -1,4 +1,4 @@
-# 💳 Banking Transactions Analysis (SQL + Power BI)
+# Banking Transactions Analysis (SQL + Power BI)
 
 **Tools Used:** SQL (MySQL), Power BI  
 **Project Type:** End-to-End Data Analytics Project  
