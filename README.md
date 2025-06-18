@@ -53,26 +53,22 @@ The primary table analyzed:
 
 ### Dashboard Pages:
 
-1. **Customer Overview**  
-   - Segment-wise distribution  
-   - Income vs Score scatter  
-   - Transaction channel usage
+1. **Customer Segmentation | Retail Banking**  
+   _RFM & Behavioral Insights_  
+   - Score vs Income matrix  
+   - Segment & Tier distribution  
+   - Transaction channel & product analysis
 
-2. **Revenue Insights**  
-   - Fee type comparison  
-   - Avg. fee per customer  
-   - City-wise contribution
+2. **Customer Value Segments | Retail Banking**  
+   _Financial Behavior Breakdown_  
+   - Fee revenue by type, tier, and channel  
+   - Churn risk distribution  
+   - Top contributing customer groups
 
-3. **Churn & RFM**  
-   - RFM segmentation  
-   - High/medium/low churn risk  
-   - Loyalty segment breakdown
-
-4. **Offer Effectiveness**  
-   - Offer acceptance by segment  
-   - Recommended vs Accepted %  
-   - Performance by product category
-
+3. **RFM & Segmentation Explorer**  
+   - RFM heatmap: Champions, Loyalists, At Risk  
+   - Offer & recommendation acceptance by RFM tiers  
+   - Cross-section of churn risk with income and tier
 ---
 
 ## 🔍 Key Insights
